@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ShopingCart/BusinessLogic/bin/Debug
+/ShopingCart/.vs/ShopingCart/v15/.suo
+/ShopingCart/BusinessLogic/obj/Debug
+/ShopingCart/Client/bin/Debug
+/ShopingCart/Client/bin/Debug
